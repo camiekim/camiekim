@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Camie and I work as a Senior Technical Writer at Google.
+
+Find out more: https://camiekim.github.io/
